@@ -1,5 +1,6 @@
 .odd {
     background-color: hsl(6, 78%, 76%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .odd.cooler{
