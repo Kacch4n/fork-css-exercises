@@ -1,0 +1,7 @@
+.odd {
+    background-color: hsl(6, 78%, 76%);
+}
+
+.odd.cooler{
+    font-size: 24px;
+}
